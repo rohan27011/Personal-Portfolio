@@ -10,20 +10,19 @@
 
 <p align="center">
   <a href="https://github.com/rohan27011/Personal-Portfolio">
-    <img src="./website/img/index.png">
+    <img src="assets/img/Screenshot 2024-03-19 103839.png">
   </a>
 </p>
 
 ## 🔖 About
 
-Personal responsive website with my technology portfolio. Made purely with HTML, CSS and Javascript using Bootstrap. Hosted on Github Pages with DNS custom domain. SEO system configured by sitemap.xml for search engines. Custom bootstrap template "Personal - v2.1.0".
+Personal responsive website with my technology portfolio. Made purely with HTML, CSS and Javascript .Hosted on Github Pages with DNS custom domain. SEO system configured by sitemap.xml for search engines. Custom bootstrap template "Personal - v2.1.0".
 
 ## 🚀 Technologies and Tools
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JavaScript](https://www.javascript.com/)
-* [TypedJs](https://github.com/mattboldt/typed.js/)
 * [GithubPages](https://pages.github.com/)
 
 ## 📝 License
@@ -31,4 +30,3 @@ Personal responsive website with my technology portfolio. Made purely with HTML,
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - **[LICENSE](LICENSE)**
 
----
