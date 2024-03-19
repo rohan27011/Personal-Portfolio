@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://lucas-angelo.github.io/portfolio" target="_blank">Personal Portfolio</a></h1>
+<h1 align="center"><a href="https://github.com/rohan27011/Personal-Portfolio" target="_blank">Personal Portfolio</a></h1>
 
 <h3 align="center">
     <p align="center">
